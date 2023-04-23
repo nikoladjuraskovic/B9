@@ -1,0 +1,10 @@
+Bijelo dugme|Bitanga i princeza|Rok|1979|Jugoton|~/slike/dugme1.jpg
+Riblja corba|Nojeva barka|Rok|1999|Jugoton|~/slike/corba.jpg
+Riblja corba|Minut sa njom|Rok|2009|Diskograf|~/slike/corba.jpg
+Bilja Krstic i Bistrik orkestar|Bistrik|Etno|1979|Jugoton|~/slike/bilja.jpg
+Zeljko Samardzic|Kojim dobrom mila moja|Pop|2004|PGP|~/slike/zeljkos.jpg
+Zeljko Vasic|Intro|Pop|2004|Jugoton|~/slike/zeljkov.jpg
+Lepa Brena|Hajde da se volimo|Folk|1987|Diskograf|~/slike/brena.jpeg
+Haris Dzinovic|Haris(1991)|Folk|1991|Jugoton|~/slike/haris.jpg
+Hari Mata Hari|U tvojoj kosi|Pop|1987|Jugoton|~/slike/hari.jpg
+Bijelo dugme|Ciribiribela|Rok|1988|Diskograf|~/slike/dugme2.jpg

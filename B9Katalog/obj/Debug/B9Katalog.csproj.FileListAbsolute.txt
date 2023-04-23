@@ -1,0 +1,222 @@
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\B9Katalog.dll.config
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\B9Katalog.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\B9Katalog.pdb
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\csc.exe
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\csc.exe.config
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\csc.rsp
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\csi.exe
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\csi.exe.config
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\csi.rsp
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.AppContext.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Collections.Immutable.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Console.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Globalization.Calendars.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.IO.Compression.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.IO.FileSystem.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Net.Http.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Net.Sockets.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Reflection.Metadata.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.ValueTuple.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XPath.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\vbc.exe
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\vbc.exe.config
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\vbc.rsp
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\VBCSCompiler.exe
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\roslyn\VBCSCompiler.exe.config
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Antlr3.Runtime.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\AspNet.ScriptManager.jQuery.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Microsoft.Web.Infrastructure.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Newtonsoft.Json.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\System.Web.Optimization.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\WebGrease.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\System.Web.Optimization.xml
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Newtonsoft.Json.xml
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Antlr3.Runtime.pdb
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.AssemblyReference.cache
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.CoreCompileInputs.cache
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.CopyComplete
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\obj\Debug\B9Katalog.dll
+E:\Veb MC\2022-2023\B9Katalog\B9Katalog\obj\Debug\B9Katalog.pdb
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\B9Katalog.dll.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\B9Katalog.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\B9Katalog.pdb
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\csc.exe
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\csc.exe.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\csc.rsp
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\csi.exe
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\csi.exe.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\csi.rsp
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.AppContext.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Console.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Net.Http.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\vbc.exe
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\vbc.exe.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\vbc.rsp
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Antlr3.Runtime.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Newtonsoft.Json.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\System.Web.Optimization.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\WebGrease.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\System.Web.Optimization.xml
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Newtonsoft.Json.xml
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.CopyComplete
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\obj\Debug\B9Katalog.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\MarinaTakovResenja\B9Katalog\B9Katalog\obj\Debug\B9Katalog.pdb
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\B9Katalog.dll.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\B9Katalog.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\B9Katalog.pdb
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\csc.exe
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\csc.exe.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\csc.rsp
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\csi.exe
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\csi.exe.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\csi.rsp
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.AppContext.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Console.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Net.Http.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\vbc.exe
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\vbc.exe.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\vbc.rsp
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Antlr3.Runtime.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Newtonsoft.Json.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\System.Web.Optimization.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\WebGrease.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\System.Web.Optimization.xml
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Newtonsoft.Json.xml
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\obj\Debug\B9Katalog.csproj.CopyComplete
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\obj\Debug\B9Katalog.dll
+C:\Users\Nikola\source\repos\VebMaturskiZadaci\B9Katalog\B9Katalog\obj\Debug\B9Katalog.pdb
